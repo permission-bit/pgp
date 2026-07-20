@@ -1,6 +1,6 @@
 # pgp-public-key
 
-'''text
+```text
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBGpd8QcBEADWLooznTn57bIwTERA/k64m4BRkLybEGD4PN4K/Ojq5jlPciKW
@@ -53,4 +53,4 @@ Qc2YnXDV6GfEa2gBErHqL4EJzhsKqCllR5T8H94JavzZA+//CReZedh/A+sp+fmr
 X00=
 =J5O1
 -----END PGP PUBLIC KEY BLOCK-----
-'''
+```
