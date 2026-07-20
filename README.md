@@ -1,6 +1,6 @@
 # pgp-public-key
 
-Send me your username via Instagram (vincent.encrypt), encrypted, along with the reason you want to be part of this project. If your message convinces me, I'll grant you access to my repositories.
+Send me your username via Instagram (vincent.encrypt), encrypted, along with the reason you want to be part of this project. If your message convinces me, I'll grant you access to my repositories. (ransomware.lab, bruteforce and phishing labs)
 
 ```text
 -----BEGIN PGP PUBLIC KEY BLOCK-----
